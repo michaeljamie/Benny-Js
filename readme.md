@@ -1,3 +1,7 @@
-# Benny J's - Online E-commerce Site
+# Advanced React GraphQL & SSR Course
 
-#### Site built with React, GraphQL, Apollo, NextJS, Prisma, and GraphQL Yoga 
+An e-commerce shop built combining React with GraphQL.  An [awesome course](https://advancedreact.com/ "Advanced React") from WesBos that I've really had a lot of fun with.
+
+#### Site built with: 
+
+React, GraphQL, Apollo, NextJS, Prisma, and GraphQL Yoga 
